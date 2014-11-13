@@ -23,3 +23,8 @@ verifyCredentials(password, PBKDF2Hash, callback);
 
 
 See test.js for a more detailed example.
+
+License
+=======
+
+MIT :-)
