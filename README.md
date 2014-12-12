@@ -1,5 +1,6 @@
 pbkdf2-mosquitto
 ================
+[![NPM](https://nodei.co/npm/mosquitto-pbkdf2.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/mosquitto-pbkdf2/)
 
 A small module to generate/validate PBKDF2-sha256 passwords as required by mosquitto-auth-plug in node.js 
 
