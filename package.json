@@ -7,8 +7,7 @@
 		"test": "node test.js",
     "pwd_compare": "node np.js"
 	},
-	"author": "Manuel Domínguez Dorado",
-	"email": "manuel.dominguez@enzinatec.com",
+	"author": "Daniel Jimenez Jerez",
 	"license": "MIT",
 	"keywords": [
 		"pbkdf2",
@@ -18,7 +17,7 @@
 		"mosquitto-auth-plug",
 		"authentication"
 	],
-	"repository": "https://github.com/manolodd/pbkdf2-mosquitto",
+	"repository": "https://github.com/djimenezjerez/pbkdf2-mosquitto",
 	"dependencies": {
 		"pbkdf2": "3.0.14",
 		"prompt": "1.0.0"
