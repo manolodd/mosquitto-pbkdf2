@@ -19,7 +19,7 @@
 	],
 	"contributors": [
 		{ "name": "Daniel Jimenez Jerez", "email" : "unknown@unknown.com", "url" : "https://github.com/djimenezjerez" }
-	]
+	],
 	"repository": "https://github.com/manolodd/mosquitto-pbkdf2",
 	"dependencies": {
 		"pbkdf2": "3.0.14",
