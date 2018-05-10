@@ -1,31 +1,35 @@
 {
-	"name": "pbkdf2-mosquitto",
-	"version": "0.1.1",
-	"description": "Small module to generate/verify PBKDF2 as needed by mosquitto-auth-plug",
-	"main": "mosquitto_pbkdf2.js",
-	"scripts": {
-		"test": "node test.js",
+  "name": "pbkdf2-mosquitto",
+  "version": "0.2.0",
+  "description": "Small module to generate/verify PBKDF2 as needed by mosquitto-auth-plug",
+  "main": "mosquitto_pbkdf2.js",
+  "scripts": {
+    "test": "node test.js",
     "pwd_compare": "node np.js"
-	},
-	"author": "Manuel Domínguez Dorado",
-	"email": "manuel.dominguez@enzinatec.com",
-	"keywords": [
-		"pbkdf2",
-		"mosquitto",
-		"password",
-		"hash",
-		"mosquitto-auth-plug",
-		"authentication"
-	],
-	"contributors": [
-		{ "name": "Daniel Jimenez Jerez", "email" : "unknown@unknown.com", "url" : "https://github.com/djimenezjerez" }
-	],
-	"repository": "https://github.com/manolodd/mosquitto-pbkdf2",
-	"dependencies": {
-		"pbkdf2": "3.0.14",
-		"prompt": "1.0.0"
-	},
-	"engines": {
-		"node": ">= 0.10.0"
-	}
+  },
+  "author": "Manuel Domínguez Dorado",
+  "email": "manuel.dominguez@enzinatec.com",
+  "keywords": [
+    "pbkdf2",
+    "mosquitto",
+    "password",
+    "hash",
+    "mosquitto-auth-plug",
+    "authentication"
+  ],
+  "contributors": [
+    {
+      "name": "Daniel Jimenez Jerez",
+      "email": "unknown@unknown.com",
+      "url": "https://github.com/djimenezjerez"
+    }
+  ],
+  "repository": "https://github.com/manolodd/mosquitto-pbkdf2",
+  "dependencies": {
+    "pbkdf2": "3.0.14",
+    "prompt": "1.0.0"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
 }
