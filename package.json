@@ -2,6 +2,7 @@
   "name": "pbkdf2-mosquitto",
   "version": "0.2.0",
   "description": "Small module to generate/verify PBKDF2 as needed by mosquitto-auth-plug",
+  "license": "MIT",
   "main": "mosquitto_pbkdf2.js",
   "scripts": {
     "test": "node test.js",
