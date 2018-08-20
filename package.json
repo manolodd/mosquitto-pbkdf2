@@ -23,7 +23,13 @@
       "name": "Daniel Jimenez Jerez",
       "email": "unknown@unknown.com",
       "url": "https://github.com/djimenezjerez"
+    },
+    {
+      "name": "Stefan Seide",
+      "email": "unknown@unknown.com",
+      "url": "https://github.com/sseide"
     }
+
   ],
   "repository": "https://github.com/manolodd/mosquitto-pbkdf2",
   "dependencies": {
